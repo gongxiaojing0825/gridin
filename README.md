@@ -10,6 +10,7 @@ GridIn AI is pioneering the future of smart, sustainable energy systems by lever
 - [Whitepaper](https://agentize.gitbook.io/gridin.ai-whitepaper)
 - [Pitch Deck](https://www.canva.com/design/DAGMX1F7BaQ/9AVIQTSXOgaCLuJ2xCIobg/view?utm_content=DAGMX1F7BaQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [Mobile App Closed Beta Application](https://testflight.apple.com/join/wPOT7dEG)
+- [Smart Contract](https://github.com/gongxiaojing0825/gridin/blob/main/smart_contract/GIMToken.sol)
 
 ## About GridIn AI
 
