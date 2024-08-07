@@ -36,13 +36,5 @@ GridIn AI is building an AI-powered smart grid network for a sustainable future.
 2. Check out our [Pitch Deck](https://www.canva.com/design/DAGMX1F7BaQ/9AVIQTSXOgaCLuJ2xCIobg/view?utm_content=DAGMX1F7BaQ&utm_campaign=designshare&utm_medium=link&utm_source=editor) for a quick overview
 3. Apply for our [Mobile App Closed Beta](https://testflight.apple.com/join/wPOT7dEG) to experience GridIn AI firsthand
 
-## Contributing
 
-We welcome contributions from the community! If you're interested in contributing, please:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
