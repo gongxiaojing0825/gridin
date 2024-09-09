@@ -28,6 +28,7 @@
 		5CB18C222BD85AAA00FED1D7 /* sampleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB18C212BD85AAA00FED1D7 /* sampleData.swift */; };
 		5CB18C242BD8628F00FED1D7 /* ConversationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB18C232BD8628F00FED1D7 /* ConversationView.swift */; };
 		5CB18C282BD8681300FED1D7 /* util.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB18C272BD8681300FED1D7 /* util.swift */; };
+		5CC2C7192C8FB2FF004CBE83 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5C3133062BDBD830002038A7 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -253,6 +254,7 @@
 			files = (
 				5CB18C152BD81B5D00FED1D7 /* Preview Assets.xcassets in Resources */,
 				5CB18C122BD81B5D00FED1D7 /* Assets.xcassets in Resources */,
+				5CC2C7192C8FB2FF004CBE83 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -464,7 +466,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 6;
+				CURRENT_PROJECT_VERSION = 10;
 				DEVELOPMENT_ASSET_PATHS = "\"gridin/Preview Content\"";
 				DEVELOPMENT_TEAM = M4846KV222;
 				ENABLE_PREVIEWS = YES;
@@ -496,7 +498,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 6;
+				CURRENT_PROJECT_VERSION = 10;
 				DEVELOPMENT_ASSET_PATHS = "\"gridin/Preview Content\"";
 				DEVELOPMENT_TEAM = M4846KV222;
 				ENABLE_PREVIEWS = YES;
